@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ayush Raj
+# Hi 👋, I'm Nishant Raj
 
 💻 Full Stack Developer  
 🚀 Building web apps and AI projects

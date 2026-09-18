@@ -14,8 +14,8 @@
 
 ## 🔥 Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nishant4uuh&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=nishant4uh&theme=tokyonight)
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/nishant4uuh
+- GitHub: https://github.com/nishant4uh
